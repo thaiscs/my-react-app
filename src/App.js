@@ -7,7 +7,7 @@ function App() {
     <div class="article card">
       <div class="row">
         <div class="col half">
-          <img src="https://coding.images/react.jpg" />
+          <img src="https://www.realestate.com.au/blog/images/1200x900-fit,progressive/2019/05/03143311/stark-cropped.jpg" />
         </div>
         <div class="col half">
           <h2>What is React all about?</h2>

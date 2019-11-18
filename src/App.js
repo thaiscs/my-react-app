@@ -1,12 +1,12 @@
 import React from "react";
 import "./App.css";
-import MyApp from "./components/MyApp";
+// import MyApp from "./components/MyApp";
 import Title from "./components/Title";
 
 function App() {
   return (
     <div class="article card">
-      <MyApp />
+      {/* <MyApp /> */}
       <div class="row">
         <div class="col half">
           <img src="https://www.realestate.com.au/blog/images/1200x900-fit,progressive/2019/05/03143311/stark-cropped.jpg" />
